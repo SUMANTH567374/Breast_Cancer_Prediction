@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "Breast Cancer"
+project_name = "Breast_Cancer"
 
 
 
@@ -26,8 +26,7 @@ list_of_files = [
     "app.py",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb",
-    "test.py"
+    "research/trials.ipynb"
 
 
 ]
